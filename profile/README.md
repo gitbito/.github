@@ -2,8 +2,9 @@
 We build adaptable AI-powered tools to help you ship better code, faster. 
 ### What Bito enables
 - **AI Code Reviews:** on-demand, context-aware code reviews in your Git workflow or IDE as you code.
+- **AI Chat in your CLI:** bring intelligent, responsive help to your console commands.
+- **AI Chat in your IDE:** instant, interactive assistance and code commands at your fingertips.
 - **AI Code Completions:** codebase-aware suggestions tailored to your organization.
-- **AI Chat:** instant, interactive assistance and code commands at your fingertips.
 ### Get started with Bito
 - [Signup for free](https://alpha.bito.ai/home/welcome)
 - [Install on VS Code](https://marketplace.visualstudio.com/items?itemName=Bito.bito)
